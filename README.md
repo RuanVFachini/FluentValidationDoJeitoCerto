@@ -2,7 +2,7 @@
 Um projeto visando aproveitar o uso da biblioteca pra validações de regra de negócio
 
 
-# O Fluent alidation é muito mais que um validador de campos.
+# O FluentValidation é muito mais que um validador de campos.
 
 Nesse projeto conseguimos ver como o motor do FluentValition pode ser uma mão na roda para validar aquela sequencia complexa de regras de negócio.
 
